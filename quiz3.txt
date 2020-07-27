@@ -1,0 +1,76 @@
+                    State Capitals Quiz (Set 3)
+
+Name:
+
+Date:
+
+1. What is the capital of Maharashtra?
+
+ A. Dispur
+ B. Ranchi
+ C. Mumbai
+ D. Chandigarh
+
+2. What is the capital of Karnataka?
+
+ A. Patna
+ B. Mumbai
+ C. Bengaluru
+ D. Kolkata
+
+3. What is the capital of Punjab?
+
+ A. Chandigarh
+ B. Patna
+ C. Mumbai
+ D. Bhubaneswar
+
+4. What is the capital of Assam?
+
+ A. Mumbai
+ B. Dispur
+ C. Gangtok
+ D. Bhubaneswar
+
+5. What is the capital of Uttar Pradesh?
+
+ A. Ranchi
+ B. Gangtok
+ C. Patna
+ D. Lucknow
+
+6. What is the capital of Odisha?
+
+ A. Gangtok
+ B. Bengaluru
+ C. Mumbai
+ D. Bhubaneswar
+
+7. What is the capital of Jharkhand?
+
+ A. Gangtok
+ B. Ranchi
+ C. Patna
+ D. Chandigarh
+
+8. What is the capital of West Bengal?
+
+ A. Patna
+ B. Kolkata
+ C. Bhubaneswar
+ D. Lucknow
+
+9. What is the capital of Sikkim?
+
+ A. Kolkata
+ B. Dispur
+ C. Gangtok
+ D. Mumbai
+
+10. What is the capital of Bihar?
+
+ A. Patna
+ B. Bengaluru
+ C. Kolkata
+ D. Bhubaneswar
+
